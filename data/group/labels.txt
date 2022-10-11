@@ -2,4 +2,3 @@ ambiguous
 negative
 neutral
 positive
-happiness
